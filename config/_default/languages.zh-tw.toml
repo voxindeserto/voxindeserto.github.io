@@ -1,0 +1,17 @@
+locale = "zh-tw"
+label = "繁體中文"
+weight = 1
+title = "荒野中的呼喊者"
+
+[params]
+  displayName = "繁"
+  isoCode = "zh-HK"
+  rtl = false
+  dateFormat = "2006年1月2日"
+  description = "潘朗希的香港繁體中文個人網站，分享信仰、寫作、禮儀與生活。"
+
+[params.author]
+  name = "潘朗希 Chavez Poon"
+  image = "img/chavez.jpg"
+  headline = "以信仰與故事，連繫彼此。"
+  bio = "香港人，現居英國。天主教媒體工作者、自由撰稿人，關注教會禮儀、歷史與數碼傳播。"

@@ -1,0 +1,5 @@
+[module]
+  proxy = "https://proxy.golang.org"
+
+[[module.imports]]
+  path = "github.com/nunocoracao/blowfish/v3"

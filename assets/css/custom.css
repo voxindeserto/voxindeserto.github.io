@@ -1,0 +1,32 @@
+body {
+  font-family: "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+  letter-spacing: 0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+.font-serif {
+  font-family: "Noto Serif TC", "Songti TC", "PMingLiU", Georgia, serif;
+  letter-spacing: 0.015em;
+}
+
+.prose {
+  line-height: 1.95;
+}
+
+.prose blockquote {
+  border-inline-start-color: #8a6b45;
+}
+
+.article-link,
+a {
+  text-underline-offset: 0.2em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
