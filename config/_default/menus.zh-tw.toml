@@ -14,11 +14,31 @@
   weight = 30
 
 [[footer]]
-  name = "文章"
-  pageRef = "blog"
+  name = "聯絡"
+  pageRef = "contact"
+  weight = 40
+
+[[footer]]
+  name = "首頁"
+  pageRef = "/"
   weight = 10
 
 [[footer]]
   name = "簡介"
   pageRef = "biography"
+  weight = 10
+
+[[footer]]
+  name = "文章"
+  pageRef = "blog"
   weight = 20
+
+[[footer]]
+  name = "簡介"
+  pageRef = "biography"
+  weight = 30
+
+[[footer]]
+  name = "聯絡"
+  pageRef = "contact"
+  weight = 40
