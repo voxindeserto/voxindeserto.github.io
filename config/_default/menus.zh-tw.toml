@@ -42,3 +42,13 @@
   name = "聯絡"
   pageRef = "contact"
   weight = 40
+
+[[footer]]
+  name = "免責聲明"
+  pageRef = "disclaimerr"
+  weight = 50
+
+  [[footer]]
+  name = "版權資訊"
+  pageRef = "copyright"
+  weight = 60
