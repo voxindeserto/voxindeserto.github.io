@@ -8,7 +8,7 @@ enableStructuredBreadcrumbs = true
 mainSections = ["blog"]
 customCSS = ["css/custom.css"]
 defaultBackgroundImage = "img/london-oratory.jpg"
-backgroundCanvas = true
+backgroundCanvas = false
 
 [header]
   layout = "fixed"

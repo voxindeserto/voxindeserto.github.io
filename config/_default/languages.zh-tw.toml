@@ -15,3 +15,9 @@ title = "荒野中的呼喊者"
   image = "img/chavez.jpg"
   headline = "以信仰與故事，連繫彼此。"
   bio = "香港人，現居英國。天主教媒體工作者、自由撰稿人，關注教會禮儀、歷史與數碼傳播。"
+  links = [
+  { facebook = "https://www.facebook.com/clamansindeserto/" },
+  { facebook = "https://www.facebook.com/poonlhchavez/" },
+  { instagram = "https://instagram.com/_chavhei03_/" },
+  { twitter = "https://twitter.com/chavezpoon/" },
+  ]
