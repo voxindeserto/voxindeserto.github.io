@@ -33,7 +33,7 @@ backgroundCanvas = false
 [article]
   showDate = true
   showAuthor = true
-  showHero = true
+  showHero = false
   showBreadcrumbs = true
   showReadingTime = true
   showTableOfContents = true
@@ -45,7 +45,7 @@ backgroundCanvas = false
   sharingLinks = ["email", "facebook", "twitter"]
 
 [list]
-  showHero = true
+  showHero = false
   showBreadcrumbs = true
   showSummary = true
   showCards = true
