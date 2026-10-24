@@ -13,7 +13,7 @@
   pageRef = "blog"
   weight = 30
 
-[[footer]]
+[[main]]
   name = "聯絡"
   pageRef = "contact"
   weight = 40
