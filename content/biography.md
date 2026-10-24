@@ -4,7 +4,7 @@ description: "潘朗希弟兄的生平、信仰與寫作簡介。"
 date: 2026-10-23
 showDate: false
 showReadingTime: false
-showTableOfContents: false
+showTableOfContents: true
 ---
 
 ## 歡迎來到我的一方小天地

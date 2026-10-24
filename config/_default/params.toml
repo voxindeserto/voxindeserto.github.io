@@ -42,7 +42,7 @@ backgroundCanvas = false
   showTaxonomies = true
   showWordCount = false
   showZenMode = true
-  sharingLinks = ["email", "line"]
+  sharingLinks = ["email", "facebook", "twitter"]
 
 [list]
   showHero = true
