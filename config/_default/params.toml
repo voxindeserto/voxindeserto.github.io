@@ -56,4 +56,4 @@ backgroundCanvas = false
   readingSpeed = 250
 
 [params.assets]
-  favicon = "img/favicon.png"
+  favicon = "img/favicon.ico"
