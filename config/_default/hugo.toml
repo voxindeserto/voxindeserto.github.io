@@ -6,6 +6,7 @@ enableRobotsTXT = true
 summaryLength = 30
 staticDir = ["public"]
 publishDir = "out"
+copyright = "© 2026 潘朗希 Chavez Poon"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
