@@ -35,7 +35,7 @@ backgroundCanvas = false
   showAuthor = true
   showHero = false
   showBreadcrumbs = true
-  showReadingTime = true
+  showReadingTime = false
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
@@ -51,3 +51,6 @@ backgroundCanvas = false
   showCards = true
   cardView = true
   groupByYear = true
+
+[params]
+  readingSpeed = 250
