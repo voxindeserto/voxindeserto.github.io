@@ -45,7 +45,7 @@
 
 [[footer]]
   name = "免責聲明"
-  pageRef = "disclaimerr"
+  pageRef = "disclaimer"
   weight = 50
 
   [[footer]]
