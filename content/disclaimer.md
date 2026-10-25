@@ -1,6 +1,9 @@
 ---
 title: "免責聲明"
-description: "免責聲明"
+date: 2026-10-24
+showDate: false
+showReadingTime: false
+showTableOfContents: false
 ---
 
 本網站所刊載之一切內容，均純屬本網站所有者之個人觀點、意見、思想及判斷，並不必然反映任何其他人士或機構之立場。

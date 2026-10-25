@@ -1,6 +1,9 @@
 ---
 title: "版權資訊"
-description: "版權資訊"
+date: 2026-10-24
+showDate: false
+showReadingTime: false
+showTableOfContents: false
 ---
 
 本網誌的文章及圖片均為其作者或攝影者所有。如我們不是版權持有人，我們將盡量列出版權持有人的資料。但如有遺留/錯誤，或若有版權持有人認為有侵權行為，請通知我們，我們將盡快修正。

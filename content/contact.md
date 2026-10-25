@@ -1,6 +1,5 @@
 ---
 title: "聯絡"
-description: "潘朗希弟兄的生平、信仰與寫作簡介。"
 date: 2026-10-24
 showDate: false
 showReadingTime: false
