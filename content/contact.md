@@ -13,3 +13,7 @@ showTableOfContents: false
 | 拍攝、訪問及活動報道 | 文章、社交媒體與數碼內容 | 聖祭禮儀與教會傳統 |
 
 [電郵聯絡我 (poonlhchavez@gmail.com)](mailto:poonlhchavez@gmail.com)
+
+[Facebook](https://www.facebook.com/clamansindeserto/)
+
+[Instagram](https://www.instagram.com/clamansindeserto)
