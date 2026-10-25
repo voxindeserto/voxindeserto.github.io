@@ -11,10 +11,10 @@ title = "荒野中的呼喊者"
   description = "潘朗希的香港繁體中文個人網站，分享信仰、寫作、禮儀與生活。"
 
 [params.author]
-  name = "潘朗希 Chavez Poon"
+  name = "啟祿小弟兄"
   image = "img/chavez.jpg"
   headline = "以信仰與故事，連繫彼此。"
-  bio = "香港人，現居英國。天主教媒體工作者、自由撰稿人，關注教會禮儀、歷史與數碼傳播。"
+  bio = "一位現居英倫、潛心研習聖教傳統，並在天主的引領下重新尋求聖召方向的香港公教徒。"
   links = [
   { facebook = "https://www.facebook.com/clamansindeserto/" },
   { facebook = "https://www.facebook.com/poonlhchavez/" },
