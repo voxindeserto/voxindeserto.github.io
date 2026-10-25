@@ -4,6 +4,7 @@ date: 2026-10-24
 showDate: false
 showReadingTime: false
 showTableOfContents: false
+showHero: false
 ---
 
 歡迎就合作、寫作、天主教媒體、數碼內容、紀錄片製作及教會活動報道與我交流。

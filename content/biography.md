@@ -5,6 +5,7 @@ date: 2026-10-23
 showDate: false
 showReadingTime: false
 showTableOfContents: true
+showHero: false
 ---
 
 ## 歡迎你來到我的信仰小天地
