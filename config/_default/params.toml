@@ -33,7 +33,7 @@ backgroundCanvas = false
 [article]
   showDate = true
   showAuthor = true
-  showHero = false
+  showHero = true
   showBreadcrumbs = true
   showReadingTime = false
   showTableOfContents = true
