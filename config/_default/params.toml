@@ -1,7 +1,7 @@
 colorScheme = "ocean"
 defaultAppearance = "light"
 autoSwitchAppearance = false
-enableA11y = true
+enableA11y = false
 enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = true
