@@ -15,6 +15,4 @@ showHero: false
 
 [電郵聯絡我 (poonlhchavez@gmail.com)](mailto:poonlhchavez@gmail.com)
 
-[Facebook](https://www.facebook.com/clamansindeserto/)
-
-[Instagram](https://www.instagram.com/clamansindeserto)
+[Facebook](https://www.facebook.com/clamansindeserto/) | [Instagram](https://www.instagram.com/clamansindeserto)
