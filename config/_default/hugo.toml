@@ -1,3 +1,4 @@
+hasCJKLanguage = true
 baseURL = "https://voxindeserto.github.io/"
 title = "荒野中的呼喊者"
 defaultContentLanguage = "zh-tw"
@@ -6,7 +7,7 @@ enableRobotsTXT = true
 summaryLength = 30
 staticDir = ["public"]
 publishDir = "out"
-copyright = "© 2026 潘朗希 Chavez Poon"
+copyright = "© 2026 荒野中的呼喊者"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
