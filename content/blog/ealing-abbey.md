@@ -64,7 +64,7 @@ showHero: false
 
 這次探訪另一個特別有意義的部分，就是有機會與幾位會士交談，進一步了解本篤會的隱修傳統及團體生活。
 
-筆者十分感謝有機會與伊靈隱修院院長 Father Dominic、副院長 Father Alexander，以及前任院長、現任初學導師 Father Martin 交談。
+筆者十分感謝有機會與伊靈隱修院的院長 Father Dominic、副院長 Father Alexander，以及前任院長、現任初學導師 Father Martin 交談。
 
 這幾次交談讓筆者得以從不同角度認識隱修生活，以及維持一個本篤會團體所涉及的各項責任。
 
