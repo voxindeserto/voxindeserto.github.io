@@ -1,0 +1,11 @@
+{{- $altText := .Text -}}
+{{- $titleText := .Title -}}
+{{- $caption := $titleText | default $altText -}}
+{{- if $caption -}}
+<figure class="image-figure">
+  <img src="{{ .Destination | safeURL }}" alt="{{ $altText }}"{{ with $titleText }} title="{{ . }}"{{ end }} />
+  <figcaption>{{ $caption | markdownify }}</figcaption>
+</figure>
+{{- else -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ $altText }}"{{ with $titleText }} title="{{ . }}"{{ end }} />
+{{- end -}}

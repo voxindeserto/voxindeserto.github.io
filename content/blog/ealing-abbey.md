@@ -78,9 +78,9 @@ showHero: false
 
 ## Ora et Labora：祈禱與工作
 
-![修院聖堂內的唱經座（Choir Stalls）。](https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/883959070_1450745806994176_8282321664873166211_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NF1PwrcAgZcQ7kNvwGIIImo&_nc_oc=Adp1KmqjP9UZ-vrIyJGmmIjmnIp_nFeTomT4wv4jNGh9C78Dqf2P0FY4iPDAut1CXzk&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=HyUnxXF7dusF2WN4Bq5lFA&_nc_ss=7b2a8&oh=00_AQRbJ-_1Gk3Pb1VNhVafakjQPjRgleKHBAmk_rBGjr1ocg&oe=6AEFA61C)
+{{< figure src="https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/883959070_1450745806994176_8282321664873166211_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NF1PwrcAgZcQ7kNvwGIIImo&_nc_oc=Adp1KmqjP9UZ-vrIyJGmmIjmnIp_nFeTomT4wv4jNGh9C78Dqf2P0FY4iPDAut1CXzk&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=HyUnxXF7dusF2WN4Bq5lFA&_nc_ss=7b2a8&oh=00_AQRbJ-_1Gk3Pb1VNhVafakjQPjRgleKHBAmk_rBGjr1ocg&oe=6AEFA61C" alt="修院聖堂內的唱經座（Choir Stalls）。" caption="修院聖堂內的唱經座（Choir Stalls）。">}}
 
-![適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。](https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/884185834_1450745770327513_9124908375505817722_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nU5M_DCLCm4Q7kNvwES23_w&_nc_oc=Adqym3SBZ_faJj94cnZCiXQdGSn7qz6u_OZPURWlG2w0JD9jM_KBeA0-X2klbbxsfz4&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=2l_AiocV7eHB-16bZ0kuEA&_nc_ss=7b2a8&oh=00_AQSq4C_FyB0WOfBC0L_vEybWEmpfXJBaMG4RlnRtQfa4yw&oe=6AEFC0A7)
+{{< figure src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/884185834_1450745770327513_9124908375505817722_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nU5M_DCLCm4Q7kNvwES23_w&_nc_oc=Adqym3SBZ_faJj94cnZCiXQdGSn7qz6u_OZPURWlG2w0JD9jM_KBeA0-X2klbbxsfz4&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=2l_AiocV7eHB-16bZ0kuEA&_nc_ss=7b2a8&oh=00_AQSq4C_FyB0WOfBC0L_vEybWEmpfXJBaMG4RlnRtQfa4yw&oe=6AEFC0A7" alt="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。" caption="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。">}}
 
 本篤會傳統中廣為人知的格言 *Ora et Labora*，意即「祈禱與工作」，為我們提供了另一個理解隱修聖召的重要角度。
 
@@ -142,4 +142,4 @@ showHero: false
 
 無論前方的道路如何，願筆者的一切生活，最終都能歸向天主更大的光榮。
 
-![與一位在修院團體內的「修士小弟兄」。](https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/883309669_1450745813660842_8462786264545775343_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cr0PootAI_gQ7kNvwH4F7gg&_nc_oc=AdoKV2qdT_PY3F541cNN7GZ07eSxIGtPL0bfU3KFjWMjRrn7AtRn7jBUzAmVsgcrFuc&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=jNSOS9HUin2e8Lo-5Kf22w&_nc_ss=7b2a8&oh=00_AQRJObYpduQUYVRoznbERgf165DB6rrywK1EGL_oTpsAUw&oe=6AEFC14B)
+{{< figure src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/883309669_1450745813660842_8462786264545775343_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cr0PootAI_gQ7kNvwH4F7gg&_nc_oc=AdoKV2qdT_PY3F541cNN7GZ07eSxIGtPL0bfU3KFjWMjRrn7AtRn7jBUzAmVsgcrFuc&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=jNSOS9HUin2e8Lo-5Kf22w&_nc_ss=7b2a8&oh=00_AQRJObYpduQUYVRoznbERgf165DB6rrywK1EGL_oTpsAUw&oe=6AEFC14B" alt="與一位在修院團體內的「修士小弟兄」。" caption="與一位在修院團體內的「修士小弟兄」。">}}
