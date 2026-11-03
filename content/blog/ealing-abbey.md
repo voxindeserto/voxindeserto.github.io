@@ -8,8 +8,6 @@ featureimage: "img/ealing-abbey-altar.jpg"
 showHero: false
 ---
 
-![](https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/884789998_1450743610327729_7741041471390150226_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=oNz6LZ0b9UcQ7kNvwGG271Z&_nc_oc=AdrArOlxLJcnp0geY6qwERetx-RnNP8n8JI-039vBIdcTL5M37pERH9roPkdcoxrfRI&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=u3yhJJ_A6Dd7NtYD3q9AJw&_nc_ss=7b2a8&oh=00_AQREWLtVM_NosuSWdJl5LIOmiNUAOIdLLJJ8aGLeD2CBNw&oe=6AEF9DC2)
-
 在我們的信仰旅程中，總有一些時刻，天主邀請我們停下腳步，靜心聆聽，並更深入地反省生命的目的。有時，這些邀請並非透過甚麼非凡的事情而來，反而是藉着意想不到的相遇、交談，或體驗另一種生活方式的機會而臨到。對筆者而言，於2026年10月30日至11月2日期間，有機會在倫敦的伊靈本篤會隱修院（Ealing Abbey）與本篤會士們共同生活數日，便成為了這樣的一個契機。
 
 多年來，筆者一直積極參與教會的神聖禮儀及禮儀服務工作，對天主教敬禮的優美、彌撒聖祭的莊嚴，以及教會豐富的禮儀傳統，始終懷有深厚的熱忱。然而，除了禮儀儀式及外在的服務工作以外，筆者亦逐漸渴望更深入地認識和理解，究竟是甚麼樣的靈修生活，支撐着教會不斷向天主獻上的祈禱。
@@ -19,6 +17,8 @@ showHero: false
 在這四天的時間裏，筆者得以參與隱修團體的生活節奏，與會士們一同祈禱、用膳，並參與團體內的弟兄共融聚會。更重要的是，筆者有機會與團體中的幾位神父交談，進一步了解他們對隱修聖召及團體生活的體會與理解。
 
 ## Nihil Operi Dei Præponatur：祈禱的首要地位
+
+{{< figure src="https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/884789998_1450743610327729_7741041471390150226_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=oNz6LZ0b9UcQ7kNvwGG271Z&_nc_oc=AdrArOlxLJcnp0geY6qwERetx-RnNP8n8JI-039vBIdcTL5M37pERH9roPkdcoxrfRI&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=u3yhJJ_A6Dd7NtYD3q9AJw&_nc_ss=7b2a8&oh=00_AQREWLtVM_NosuSWdJl5LIOmiNUAOIdLLJJ8aGLeD2CBNw&oe=6AEF9DC2" alt="修院聖堂。" caption="修院聖堂">}}
 
 本篤會靈修傳統中，有一句極具深意的格言，載於《聖本篤會規》第四十三章：
 
