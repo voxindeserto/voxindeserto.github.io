@@ -32,6 +32,8 @@ showHero: false
 
 在伊靈隱修院逗留期間，筆者有機會與隱修團體一同誦念日課。透過親身參與教會每日祈禱的節奏，筆者得以更深刻地體會日課在本篤會生活中的重要性。
 
+{{< figure src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/884185834_1450745770327513_9124908375505817722_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nU5M_DCLCm4Q7kNvwES23_w&_nc_oc=Adqym3SBZ_faJj94cnZCiXQdGSn7qz6u_OZPURWlG2w0JD9jM_KBeA0-X2klbbxsfz4&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=2l_AiocV7eHB-16bZ0kuEA&_nc_ss=7b2a8&oh=00_AQSq4C_FyB0WOfBC0L_vEybWEmpfXJBaMG4RlnRtQfa4yw&oe=6AEFC0A7" alt="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。" caption="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。">}}
+
 當會士們聚集在隱修院聖堂內，暫時放下各自的工作與責任，藉着聖詠、讀經、聖歌及教會的禱文，共同將心神歸向天主時，這種經驗實在具有深刻的意義。
 
 日課並不僅僅是一種私人敬禮或個人的靈修操練，而是教會的正式祈禱，是整個教會與基督結合，藉着祂不斷向天父獻上的祈禱。
@@ -81,8 +83,6 @@ showHero: false
 ## Ora et Labora：祈禱與工作
 
 {{< figure src="https://scontent-lhr11-1.xx.fbcdn.net/v/t39.30808-6/883959070_1450745806994176_8282321664873166211_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NF1PwrcAgZcQ7kNvwGIIImo&_nc_oc=Adp1KmqjP9UZ-vrIyJGmmIjmnIp_nFeTomT4wv4jNGh9C78Dqf2P0FY4iPDAut1CXzk&_nc_zt=23&_nc_ht=scontent-lhr11-1.xx&_nc_gid=HyUnxXF7dusF2WN4Bq5lFA&_nc_ss=7b2a8&oh=00_AQRbJ-_1Gk3Pb1VNhVafakjQPjRgleKHBAmk_rBGjr1ocg&oe=6AEFA61C" alt="修院聖堂內的唱經座（Choir Stalls）。" caption="修院聖堂內的唱經座（Choir Stalls）。">}}
-
-{{< figure src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/884185834_1450745770327513_9124908375505817722_n.jpg?stp=dst-jpg_tt6&cstp=mx1536x2048&ctp=s1536x2048&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=nU5M_DCLCm4Q7kNvwES23_w&_nc_oc=Adqym3SBZ_faJj94cnZCiXQdGSn7qz6u_OZPURWlG2w0JD9jM_KBeA0-X2klbbxsfz4&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=2l_AiocV7eHB-16bZ0kuEA&_nc_ss=7b2a8&oh=00_AQSq4C_FyB0WOfBC0L_vEybWEmpfXJBaMG4RlnRtQfa4yw&oe=6AEFC0A7" alt="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。" caption="適逢10月31日諸聖節前夕，修院特別在當日的晚禱以拉丁文詠唱。">}}
 
 本篤會傳統中廣為人知的格言 *Ora et Labora*，意即「祈禱與工作」，為我們提供了另一個理解隱修聖召的重要角度。
 
