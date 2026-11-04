@@ -14,9 +14,14 @@
   weight = 30
 
 [[main]]
+  name = "有用連結"
+  pageRef = "useful-links"
+  weight = 40
+
+[[main]]
   name = "聯絡"
   pageRef = "contact"
-  weight = 40
+  weight = 50
 
 [[footer]]
   name = "首頁"
@@ -34,8 +39,8 @@
   weight = 20
 
 [[footer]]
-  name = "簡介"
-  pageRef = "biography"
+  name = "有用連結"
+  pageRef = "useful-links"
   weight = 30
 
 [[footer]]
