@@ -10,7 +10,7 @@ showHero: false
 
 在天主教會的修道傳統中，日課（Divinum Officium，又稱時辰禮儀、日常禮讚或神聖日課）不僅是修道人每日固定的祈禱安排，更是整個修道團體共同生活的核心。尤其在本篤會的傳統中，祈禱與工作（Ora et Labora）彼此交織，使修士的生活成為一種持續不斷的天主敬禮。
 
-在[上一篇文章](https://voxindeserto.github.io/blog/ealing-abbey/)中，筆者分享了自己於 2026 年 10 月 30 日至 11 月 2 日留宿倫敦本篤會伊靈隱修院的經歷，並談及如何有幸親身體驗本篤會修士的祈禱與團體生活。在這段期間，筆者對本篤會日課的祈禱節奏有了更深刻的體會，尤其是日課結束時的一句拉丁文祈禱：
+在[上一篇文章](https://voxindeserto.github.io/blog/ealing-abbey/)中，筆者分享了自己於 2026 年 10 月 30 日至 11 月 2 日在倫敦本篤會的伊靈隱修院體驗隱修和團體生活的經歷，並談及如何有幸親身體驗本篤會修士的祈禱與團體生活。在這段期間，筆者對本篤會日課的祈禱節奏有了更深刻的體會，尤其是日課結束時的一句拉丁文祈禱：
 
 >*Divinum auxilium maneat semper nobiscum. Et cum fratribus nostris absentibus. Amen.*
 
